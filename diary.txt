@@ -1,0 +1,4 @@
+When I train for task of classifying 0 and 1, I just need simple settings, 20 epochs, 10-20 train data, 0.1 learning rate
+The training process can result in good performance on 100-200 testing data
+
+For classifying 0,1,2,3, I need to increase the number of epochs to 100, 100 train data to get 0.94 accuracy on the 100 test data
